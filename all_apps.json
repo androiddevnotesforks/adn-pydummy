@@ -1,0 +1,766 @@
+[
+  {
+    "id": "6448311069",
+    "type": "apps",
+    "href": "/v1/catalog/us/apps/6448311069?l=en-US",
+    "attributes": {
+      "supportsArcade": false,
+      "isFirstPartyHideableApp": false,
+      "contentRatingsBySystem": {
+        "appsApple": {
+          "name": "12+",
+          "value": 300,
+          "rank": 3,
+          "advisories": [
+            "Infrequent/Mild Mature/Suggestive Themes",
+            "Infrequent/Mild Horror/Fear Themes",
+            "Infrequent/Mild Medical/Treatment Information",
+            "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+            "Infrequent/Mild Profanity or Crude Humor"
+          ]
+        }
+      },
+      "deviceFamilies": [
+        "iphone",
+        "ipad"
+      ],
+      "chartPositions": {
+        "appStore": {
+          "position": 1,
+          "genreName": "Productivity",
+          "genre": 6007,
+          "chart": "top-free",
+          "genreShortName": "Productivity",
+          "chartLink": "https://apps.apple.com/us/charts/iphone/productivity-apps/6007"
+        }
+      },
+      "supportsStreamlinedBuy": true,
+      "url": "https://apps.apple.com/us/app/chatgpt/id6448311069",
+      "userRating": {
+        "value": 4.9,
+        "ratingCount": 1480232,
+        "ratingCountList": [
+          19257,
+          5904,
+          16137,
+          61085,
+          1377849
+        ],
+        "ariaLabelForRatings": "4.9 stars"
+      },
+      "firstVersionSupportingInAppPurchaseApi": "1.2023.20",
+      "name": "ChatGPT",
+      "genreDisplayName": "Productivity",
+      "isPreorder": false,
+      "artistName": "OpenAI",
+      "isIOSBinaryMacOSCompatible": false,
+      "reviewsRestricted": false,
+      "platformAttributes": {
+        "ios": {
+          "offers": [
+            {
+              "buyParams": "productType=C&price=0&salableAdamId=6448311069&pricingParameters=STDQ&pg=default&appExtVrsId=871595991",
+              "type": "get",
+              "priceFormatted": "$0.00",
+              "price": 0,
+              "currencyCode": "USD",
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 77179904
+                }
+              ]
+            },
+            {
+              "buyParams": "productType=C&price=0&salableAdamId=6448311069&pricingParameters=SWUPD&pg=default&appExtVrsId=871595991",
+              "type": "update",
+              "priceFormatted": "$0.00",
+              "price": 0,
+              "currencyCode": "USD",
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 77179904
+                }
+              ]
+            }
+          ],
+          "requires32bit": false,
+          "minimumMacOSVersion": "14.0",
+          "releaseDate": "2023-05-18",
+          "hasInAppPurchases": true,
+          "bundleId": "com.openai.chat",
+          "hasMessagesExtension": false,
+          "isStandaloneWithCompanionForWatchOS": false,
+          "artwork": {
+            "width": 1024,
+            "height": 1024,
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/7d/16/1a7d1606-955e-9d43-547a-ccb915711ce1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/{w}x{h}{c}.{f}",
+            "bgColor": "ffffff",
+            "textColor1": "131313",
+            "textColor2": "262626",
+            "textColor3": "424242",
+            "textColor4": "515151"
+          },
+          "isAppleWatchSupported": false,
+          "requiredCapabilitiesForRealityDevice": "arm64 ",
+          "isHiddenFromSpringboard": false,
+          "isStandaloneForWatchOS": false,
+          "isDeliveredInIOSAppForWatchOS": false,
+          "isXROSCompatible": true,
+          "editorialArtwork": {
+            "contentIconTrimmedMonochrome": {
+              "width": 1048,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/6e/e2/e7/6ee2e7db-bf98-0d30-7adf-15aa80debeb5/721e011e-109f-4227-8978-1f8c6071c48f.png/{w}x{h}{c}.{f}",
+              "bgColor": "000000",
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7"
+            },
+            "contentIconTrimmed": {
+              "width": 1048,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/09/15/89/091589bc-f33b-2d71-9e77-2ef3729cd955/abc2adb6-5a59-47b0-b8f5-84523bdd6bd8.png/{w}x{h}{c}.{f}",
+              "bgColor": "0092ff",
+              "textColor1": "00070c",
+              "textColor2": "000e19",
+              "textColor3": "00233d",
+              "textColor4": "002947"
+            },
+            "brandLogo": {
+              "width": 1080,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/1c/2b/7c/1c2b7cc6-e029-9bf9-f26f-4b5f533ee2fc/af8e3a5e-dba7-4ad7-9b94-9340366eab93.png/{w}x{h}{c}.{f}",
+              "bgColor": "000000",
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7"
+            }
+          },
+          "minimumXROSVersion": "1.0",
+          "subtitle": "The official app by OpenAI",
+          "hasSafariExtension": false,
+          "requiresGameController": false
+        }
+      }
+    },
+    "relationships": {
+      "genres": {
+        "href": "/v1/catalog/us/apps/6448311069/genres?l=en-US",
+        "data": [
+          {
+            "id": "6007",
+            "type": "genres",
+            "href": "/v1/catalog/us/genres/6007?l=en-US",
+            "attributes": {
+              "parentName": "App Store",
+              "name": "Productivity",
+              "url": "https://itunes.apple.com/us/genre/id6007",
+              "parentId": "36"
+            }
+          },
+          {
+            "id": "6002",
+            "type": "genres",
+            "href": "/v1/catalog/us/genres/6002?l=en-US",
+            "attributes": {
+              "parentName": "App Store",
+              "name": "Utilities",
+              "url": "https://itunes.apple.com/us/genre/id6002",
+              "parentId": "36"
+            }
+          }
+        ]
+      },
+      "developer": {
+        "href": "/v1/catalog/us/apps/6448311069/developer?l=en-US",
+        "data": [
+          {
+            "id": "1684349733",
+            "type": "developers",
+            "href": "/v1/catalog/us/developers/1684349733?l=en-US"
+          }
+        ]
+      }
+    },
+    "meta": {
+      "contentVersion": {
+        "RTCI": 1736622948818,
+        "MZ_INDEXER": 1736799355044
+      }
+    }
+  },
+  {
+    "id": "422689480",
+    "type": "apps",
+    "href": "/v1/catalog/us/apps/422689480?l=en-US",
+    "attributes": {
+      "supportsArcade": false,
+      "isFirstPartyHideableApp": false,
+      "contentRatingsBySystem": {
+        "appsApple": {
+          "name": "4+",
+          "value": 100,
+          "rank": 1
+        }
+      },
+      "deviceFamilies": [
+        "iphone",
+        "ipad"
+      ],
+      "chartPositions": {
+        "appStore": {
+          "position": 2,
+          "genreName": "Productivity",
+          "genre": 6007,
+          "chart": "top-free",
+          "genreShortName": "Productivity",
+          "chartLink": "https://apps.apple.com/us/charts/iphone/productivity-apps/6007"
+        }
+      },
+      "supportsStreamlinedBuy": true,
+      "url": "https://apps.apple.com/us/app/gmail-email-by-google/id422689480",
+      "userRating": {
+        "value": 4.7,
+        "ratingCount": 2223676,
+        "ratingCountList": [
+          67006,
+          26636,
+          58523,
+          167769,
+          1903742
+        ],
+        "ariaLabelForRatings": "4.7 stars"
+      },
+      "firstVersionSupportingInAppPurchaseApi": "6.0.210709",
+      "name": "Gmail - Email by Google",
+      "genreDisplayName": "Productivity",
+      "isPreorder": false,
+      "artistName": "Google",
+      "isIOSBinaryMacOSCompatible": false,
+      "reviewsRestricted": false,
+      "platformAttributes": {
+        "ios": {
+          "offers": [
+            {
+              "buyParams": "productType=C&price=0&salableAdamId=422689480&pricingParameters=STDQ&pg=default&appExtVrsId=871272153",
+              "type": "get",
+              "priceFormatted": "$0.00",
+              "price": 0,
+              "currencyCode": "USD",
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 616265728
+                }
+              ]
+            },
+            {
+              "buyParams": "productType=C&price=0&salableAdamId=422689480&pricingParameters=SWUPD&pg=default&appExtVrsId=871272153",
+              "type": "update",
+              "priceFormatted": "$0.00",
+              "price": 0,
+              "currencyCode": "USD",
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 616265728
+                }
+              ]
+            }
+          ],
+          "requires32bit": false,
+          "minimumMacOSVersion": "13.0",
+          "releaseDate": "2011-11-02",
+          "hasInAppPurchases": true,
+          "bundleId": "com.google.Gmail",
+          "hasMessagesExtension": false,
+          "isStandaloneWithCompanionForWatchOS": false,
+          "artwork": {
+            "width": 1024,
+            "height": 1024,
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/22/32/ef223275-7b41-5878-0fcf-34cd4d05d15f/logo_gmail_2020q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-0-85-220-0.png/{w}x{h}{c}.{f}",
+            "bgColor": "ffffff",
+            "textColor1": "570c0a",
+            "textColor2": "5a1412",
+            "textColor3": "793c3b",
+            "textColor4": "7b4342"
+          },
+          "isAppleWatchSupported": false,
+          "requiredCapabilitiesForRealityDevice": "arm64 ",
+          "isHiddenFromSpringboard": false,
+          "isStandaloneForWatchOS": false,
+          "isDeliveredInIOSAppForWatchOS": false,
+          "isXROSCompatible": false,
+          "editorialArtwork": {
+            "bannerUber": {
+              "width": 4320,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/11/12/15/111215bf-33cd-b0fd-fc03-532d10d2b5c2/QlUtQVAtV1ctR21haWwucG5n.png/{w}x{h}sr.{f}",
+              "bgColor": "ffffff",
+              "textColor1": "100a08",
+              "textColor2": "0e0c0c",
+              "textColor3": "332c2b",
+              "textColor4": "312f2f"
+            },
+            "contentIconTrimmedMonochrome": {
+              "width": 1048,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/6e/e2/e7/6ee2e7db-bf98-0d30-7adf-15aa80debeb5/721e011e-109f-4227-8978-1f8c6071c48f.png/{w}x{h}{c}.{f}",
+              "bgColor": "000000",
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7"
+            },
+            "contentIconTrimmed": {
+              "width": 1048,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/09/15/89/091589bc-f33b-2d71-9e77-2ef3729cd955/abc2adb6-5a59-47b0-b8f5-84523bdd6bd8.png/{w}x{h}{c}.{f}",
+              "bgColor": "0092ff",
+              "textColor1": "00070c",
+              "textColor2": "000e19",
+              "textColor3": "00233d",
+              "textColor4": "002947"
+            },
+            "brandLogo": {
+              "width": 1080,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/1c/2b/7c/1c2b7cc6-e029-9bf9-f26f-4b5f533ee2fc/af8e3a5e-dba7-4ad7-9b94-9340366eab93.png/{w}x{h}{c}.{f}",
+              "bgColor": "000000",
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7"
+            }
+          },
+          "minimumXROSVersion": "1.0",
+          "subtitle": "Secure, fast & organized email",
+          "hasSafariExtension": false,
+          "requiresGameController": false
+        }
+      }
+    },
+    "relationships": {
+      "genres": {
+        "href": "/v1/catalog/us/apps/422689480/genres?l=en-US",
+        "data": [
+          {
+            "id": "6007",
+            "type": "genres",
+            "href": "/v1/catalog/us/genres/6007?l=en-US",
+            "attributes": {
+              "parentName": "App Store",
+              "name": "Productivity",
+              "url": "https://itunes.apple.com/us/genre/id6007",
+              "parentId": "36"
+            }
+          },
+          {
+            "id": "6005",
+            "type": "genres",
+            "href": "/v1/catalog/us/genres/6005?l=en-US",
+            "attributes": {
+              "parentName": "App Store",
+              "name": "Social Networking",
+              "url": "https://itunes.apple.com/us/genre/id6005",
+              "parentId": "36"
+            }
+          }
+        ]
+      },
+      "developer": {
+        "href": "/v1/catalog/us/apps/422689480/developer?l=en-US",
+        "data": [
+          {
+            "id": "281956209",
+            "type": "developers",
+            "href": "/v1/catalog/us/developers/281956209?l=en-US"
+          }
+        ]
+      }
+    },
+    "meta": {
+      "contentVersion": {
+        "RTCI": 1736547836182,
+        "MZ_INDEXER": 1736739206665
+      }
+    }
+  },
+  {
+    "id": "983156458",
+    "type": "apps",
+    "href": "/v1/catalog/us/apps/983156458?l=en-US",
+    "attributes": {
+      "supportsArcade": false,
+      "isFirstPartyHideableApp": false,
+      "contentRatingsBySystem": {
+        "appsApple": {
+          "name": "4+",
+          "value": 100,
+          "rank": 1
+        }
+      },
+      "deviceFamilies": [
+        "iphone",
+        "realityDevice",
+        "ipad",
+        "ipod"
+      ],
+      "chartPositions": {
+        "appStore": {
+          "position": 3,
+          "genreName": "Productivity",
+          "genre": 6007,
+          "chart": "top-free",
+          "genreShortName": "Productivity",
+          "chartLink": "https://apps.apple.com/us/charts/iphone/productivity-apps/6007"
+        }
+      },
+      "supportsStreamlinedBuy": true,
+      "url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458",
+      "userRating": {
+        "value": 4.8,
+        "ratingCount": 463143,
+        "ratingCountList": [
+          16956,
+          2816,
+          6878,
+          22344,
+          414149
+        ],
+        "ariaLabelForRatings": "4.8 stars"
+      },
+      "name": "Microsoft Authenticator",
+      "genreDisplayName": "Productivity",
+      "isPreorder": false,
+      "artistName": "Microsoft Corporation",
+      "isIOSBinaryMacOSCompatible": false,
+      "reviewsRestricted": false,
+      "platformAttributes": {
+        "ios": {
+          "offers": [
+            {
+              "buyParams": "productType=C&price=0&salableAdamId=983156458&pricingParameters=STDQ&pg=default&appExtVrsId=870140539",
+              "type": "get",
+              "priceFormatted": "$0.00",
+              "price": 0,
+              "currencyCode": "USD",
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 227564544
+                }
+              ]
+            },
+            {
+              "buyParams": "productType=C&price=0&salableAdamId=983156458&pricingParameters=SWUPD&pg=default&appExtVrsId=870140539",
+              "type": "update",
+              "priceFormatted": "$0.00",
+              "price": 0,
+              "currencyCode": "USD",
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 227564544
+                }
+              ]
+            }
+          ],
+          "requires32bit": false,
+          "minimumMacOSVersion": "12.0",
+          "releaseDate": "2015-05-30",
+          "hasInAppPurchases": false,
+          "bundleId": "com.microsoft.azureauthenticator",
+          "hasMessagesExtension": false,
+          "isStandaloneWithCompanionForWatchOS": false,
+          "artwork": {
+            "width": 1024,
+            "height": 1024,
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/9f/f9/cc9ff964-ad76-4a7a-b27a-5f4344de2373/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/{w}x{h}{c}.{f}",
+            "bgColor": "ffffff",
+            "textColor1": "052c50",
+            "textColor2": "00315a",
+            "textColor3": "375673",
+            "textColor4": "335a7b"
+          },
+          "isAppleWatchSupported": false,
+          "isHiddenFromSpringboard": false,
+          "isStandaloneForWatchOS": false,
+          "isDeliveredInIOSAppForWatchOS": false,
+          "isXROSCompatible": false,
+          "editorialArtwork": {
+            "contentIconTrimmedMonochrome": {
+              "width": 1048,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/6e/e2/e7/6ee2e7db-bf98-0d30-7adf-15aa80debeb5/721e011e-109f-4227-8978-1f8c6071c48f.png/{w}x{h}{c}.{f}",
+              "bgColor": "000000",
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7"
+            },
+            "contentIconTrimmed": {
+              "width": 1048,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/09/15/89/091589bc-f33b-2d71-9e77-2ef3729cd955/abc2adb6-5a59-47b0-b8f5-84523bdd6bd8.png/{w}x{h}{c}.{f}",
+              "bgColor": "0092ff",
+              "textColor1": "00070c",
+              "textColor2": "000e19",
+              "textColor3": "00233d",
+              "textColor4": "002947"
+            },
+            "brandLogo": {
+              "width": 1080,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/1c/2b/7c/1c2b7cc6-e029-9bf9-f26f-4b5f533ee2fc/af8e3a5e-dba7-4ad7-9b94-9340366eab93.png/{w}x{h}{c}.{f}",
+              "bgColor": "000000",
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7"
+            }
+          },
+          "subtitle": "Protects your online identity",
+          "hasSafariExtension": false,
+          "requiresGameController": false
+        }
+      }
+    },
+    "relationships": {
+      "genres": {
+        "href": "/v1/catalog/us/apps/983156458/genres?l=en-US",
+        "data": [
+          {
+            "id": "6007",
+            "type": "genres",
+            "href": "/v1/catalog/us/genres/6007?l=en-US",
+            "attributes": {
+              "parentName": "App Store",
+              "name": "Productivity",
+              "url": "https://itunes.apple.com/us/genre/id6007",
+              "parentId": "36"
+            }
+          },
+          {
+            "id": "6002",
+            "type": "genres",
+            "href": "/v1/catalog/us/genres/6002?l=en-US",
+            "attributes": {
+              "parentName": "App Store",
+              "name": "Utilities",
+              "url": "https://itunes.apple.com/us/genre/id6002",
+              "parentId": "36"
+            }
+          }
+        ]
+      },
+      "developer": {
+        "href": "/v1/catalog/us/apps/983156458/developer?l=en-US",
+        "data": [
+          {
+            "id": "298856275",
+            "type": "developers",
+            "href": "/v1/catalog/us/developers/298856275?l=en-US"
+          }
+        ]
+      }
+    },
+    "meta": {
+      "contentVersion": {
+        "RTCI": 1733700699025,
+        "MZ_INDEXER": 1736810188145
+      }
+    }
+  },
+  {
+    "id": "951937596",
+    "type": "apps",
+    "href": "/v1/catalog/us/apps/951937596?l=en-US",
+    "attributes": {
+      "supportsArcade": false,
+      "isFirstPartyHideableApp": false,
+      "contentRatingsBySystem": {
+        "appsApple": {
+          "name": "4+",
+          "value": 100,
+          "rank": 1
+        }
+      },
+      "deviceFamilies": [
+        "watch",
+        "iphone",
+        "ipad"
+      ],
+      "chartPositions": {
+        "appStore": {
+          "position": 4,
+          "genreName": "Productivity",
+          "genre": 6007,
+          "chart": "top-free",
+          "genreShortName": "Productivity",
+          "chartLink": "https://apps.apple.com/us/charts/iphone/productivity-apps/6007"
+        }
+      },
+      "supportsStreamlinedBuy": true,
+      "url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596",
+      "userRating": {
+        "value": 4.8,
+        "ratingCount": 7584423,
+        "ratingCountList": [
+          35591,
+          24579,
+          194964,
+          985462,
+          6343827
+        ],
+        "ariaLabelForRatings": "4.8 stars"
+      },
+      "firstVersionSupportingInAppPurchaseApi": "1.0.1",
+      "name": "Voices AI: Voice Changer",
+      "genreDisplayName": "Productivity",
+      "isPreorder": false,
+      "artistName": "Leon Fiedler Enterprises LLC",
+      "isIOSBinaryMacOSCompatible": false,
+      "reviewsRestricted": false,
+      "platformAttributes": {
+        "ios": {
+          "offers": [
+            {
+              "buyParams": "productType=C&price=0&salableAdamId=6461268224&pricingParameters=STDQ&pg=default&appExtVrsId=870291499",
+              "type": "get",
+              "priceFormatted": "$0.00",
+              "price": 0,
+              "currencyCode": "USD",
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 80022528
+                }
+              ]
+            },
+            {
+              "buyParams": "productType=C&price=0&salableAdamId=6461268224&pricingParameters=SWUPD&pg=default&appExtVrsId=870291499",
+              "type": "update",
+              "priceFormatted": "$0.00",
+              "price": 0,
+              "currencyCode": "USD",
+              "assets": [
+                {
+                  "flavor": "iosSoftware",
+                  "size": 80022528
+                }
+              ]
+            }
+          ],
+          "requires32bit": false,
+          "releaseDate": "2023-08-19",
+          "hasInAppPurchases": true,
+          "bundleId": "com.leonfiedler.voiceai",
+          "hasMessagesExtension": false,
+          "isStandaloneWithCompanionForWatchOS": false,
+          "artwork": {
+            "width": 1024,
+            "height": 1024,
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/13/e9/2713e928-20c1-cefa-f46b-093de06b7a13/AppIconIOS-0-0-1x_U007epad-0-1-85-220.jpeg/{w}x{h}{c}.{f}",
+            "bgColor": "103e55",
+            "textColor1": "33f7f5",
+            "textColor2": "42e0a9",
+            "textColor3": "2cd2d5",
+            "textColor4": "38bf98"
+          },
+          "isAppleWatchSupported": false,
+          "requiredCapabilitiesForRealityDevice": "arm64 ",
+          "isHiddenFromSpringboard": false,
+          "isStandaloneForWatchOS": false,
+          "isDeliveredInIOSAppForWatchOS": false,
+          "isXROSCompatible": true,
+          "editorialArtwork": {
+            "contentIconTrimmedMonochrome": {
+              "width": 1048,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/6e/e2/e7/6ee2e7db-bf98-0d30-7adf-15aa80debeb5/721e011e-109f-4227-8978-1f8c6071c48f.png/{w}x{h}{c}.{f}",
+              "bgColor": "000000",
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7"
+            },
+            "contentIconTrimmed": {
+              "width": 1048,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/09/15/89/091589bc-f33b-2d71-9e77-2ef3729cd955/abc2adb6-5a59-47b0-b8f5-84523bdd6bd8.png/{w}x{h}{c}.{f}",
+              "bgColor": "0092ff",
+              "textColor1": "00070c",
+              "textColor2": "000e19",
+              "textColor3": "00233d",
+              "textColor4": "002947"
+            },
+            "brandLogo": {
+              "width": 1080,
+              "height": 1080,
+              "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/1c/2b/7c/1c2b7cc6-e029-9bf9-f26f-4b5f533ee2fc/af8e3a5e-dba7-4ad7-9b94-9340366eab93.png/{w}x{h}{c}.{f}",
+              "bgColor": "000000",
+              "textColor1": "f2f2f2",
+              "textColor2": "e5e5e5",
+              "textColor3": "c1c1c1",
+              "textColor4": "b7b7b7"
+            }
+          },
+          "minimumXROSVersion": "1.0",
+          "subtitle": "Celebrity AI Voices & Parody",
+          "hasSafariExtension": false,
+          "requiresGameController": false
+        }
+      }
+    },
+    "relationships": {
+      "genres": {
+        "href": "/v1/catalog/us/apps/6461268224/genres?l=en-US",
+        "data": [
+          {
+            "id": "6007",
+            "type": "genres",
+            "href": "/v1/catalog/us/genres/6007?l=en-US",
+            "attributes": {
+              "parentName": "App Store",
+              "name": "Productivity",
+              "url": "https://itunes.apple.com/us/genre/id6007",
+              "parentId": "36"
+            }
+          },
+          {
+            "id": "6016",
+            "type": "genres",
+            "href": "/v1/catalog/us/genres/6016?l=en-US",
+            "attributes": {
+              "parentName": "App Store",
+              "name": "Entertainment",
+              "url": "https://itunes.apple.com/us/genre/id6016",
+              "parentId": "36"
+            }
+          }
+        ]
+      },
+      "developer": {
+        "href": "/v1/catalog/us/apps/6461268224/developer?l=en-US",
+        "data": [
+          {
+            "id": "1557254098",
+            "type": "developers",
+            "href": "/v1/catalog/us/developers/1557254098?l=en-US"
+          }
+        ]
+      }
+    },
+    "meta": {
+      "contentVersion": {
+        "RTCI": 1733141347622,
+        "MZ_INDEXER": 1735207180698
+      }
+    }
+  }
+]
